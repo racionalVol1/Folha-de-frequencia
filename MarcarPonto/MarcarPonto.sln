@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcarPonto", "MarcarPonto.csproj", "{A22EF7B3-BFBE-4136-A558-F0574312CA28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A22EF7B3-BFBE-4136-A558-F0574312CA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22EF7B3-BFBE-4136-A558-F0574312CA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22EF7B3-BFBE-4136-A558-F0574312CA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22EF7B3-BFBE-4136-A558-F0574312CA28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9C68EA4-6443-4659-A753-3F6DE391AB61}
+	EndGlobalSection
+EndGlobal

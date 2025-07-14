@@ -1,0 +1,36 @@
+# Ignore bin and obj folders (build output)
+**/bin/
+**/obj/
+
+# Ignore Visual Studio temporary files, build results, and user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build results
+*.exe
+*.dll
+*.pdb
+
+# Ignore publish output
+**/publish/
+
+# Ignore VS Code settings (se estiver usando)
+.vscode/
+
+# Ignore Mac and Windows specific system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+~$*
+
+# Ignore Word temporary files (criados ao editar o .docx)
+~*.docx
+
+# Ignore registro gerado (caso deseje versionar apenas o modelo)
+Registros/registros_*.txt
